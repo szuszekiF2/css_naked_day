@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
