@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Allow Annotator PIL.Image inputs (#8397)
