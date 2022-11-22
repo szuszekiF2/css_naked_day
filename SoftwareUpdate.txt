@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
