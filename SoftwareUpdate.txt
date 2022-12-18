@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
