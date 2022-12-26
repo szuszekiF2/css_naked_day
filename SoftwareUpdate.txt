@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update Discord and Contributing Guide URLs (#9270)
