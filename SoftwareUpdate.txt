@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
