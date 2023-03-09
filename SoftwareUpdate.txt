@@ -1,1 +1,1 @@
-Update README.md
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
