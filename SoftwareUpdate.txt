@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Merge pull request #22 from SkalskiP/patch-1
