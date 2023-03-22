@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add YOLOv8 LibTorch C++ inference example (#7090)
