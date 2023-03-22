@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Improve Coral Edge TPU guide (#8160)
