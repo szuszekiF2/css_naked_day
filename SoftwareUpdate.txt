@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
