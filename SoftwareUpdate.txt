@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add quantization support to TensorFlow.js converter (#7008)
