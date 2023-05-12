@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Retry once for Docker CI failures (#8164)
