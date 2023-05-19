@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add simple-utilities.md Docs page (#8269)
