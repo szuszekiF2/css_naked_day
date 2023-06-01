@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Python refactorings and simplifications (#7549)
