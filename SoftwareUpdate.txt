@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
