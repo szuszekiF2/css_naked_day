@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix Neural Magic links (#9144)
