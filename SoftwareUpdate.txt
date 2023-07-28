@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Clarify triton server boolean value (#8532)
