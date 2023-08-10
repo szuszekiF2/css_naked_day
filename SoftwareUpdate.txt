@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
