@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
