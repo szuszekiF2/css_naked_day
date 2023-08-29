@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add Weights & Biases Docs integrations page (#7199)
