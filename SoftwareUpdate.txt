@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
