@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
