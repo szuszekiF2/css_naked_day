@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
