@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+added badges (#45)
