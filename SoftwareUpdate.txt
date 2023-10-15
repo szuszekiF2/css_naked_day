@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
