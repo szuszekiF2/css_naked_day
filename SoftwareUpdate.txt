@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Improve Coral Edge TPU guide (#8160)
