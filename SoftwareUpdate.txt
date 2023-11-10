@@ -1,1 +1,1 @@
-add yolov10
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
