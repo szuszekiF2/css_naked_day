@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
