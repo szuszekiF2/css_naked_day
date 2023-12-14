@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
