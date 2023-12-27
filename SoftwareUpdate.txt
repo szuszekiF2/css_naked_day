@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Fix OpenVINO missing batch-size bug (#9264)
