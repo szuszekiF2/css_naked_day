@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Updating a typo on paddlepaddle.md (#9108)
