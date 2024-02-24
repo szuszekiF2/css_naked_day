@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add quantization support to TensorFlow.js converter (#7008)
