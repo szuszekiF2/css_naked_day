@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
