@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
