@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add type hinting to explorer.py (#7388)
