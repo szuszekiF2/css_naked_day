@@ -1,1 +1,1 @@
-fix non-coco val
+Add Weights & Biases Docs integrations page (#7199)
