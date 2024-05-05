@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add estimate_speed(region_color) parameter (#8285)
