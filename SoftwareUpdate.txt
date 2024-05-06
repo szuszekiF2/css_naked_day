@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
