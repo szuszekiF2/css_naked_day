@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+OpenVino 2024.0.0 (#8726)
