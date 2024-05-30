@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update neural-magic.md (#7347)
